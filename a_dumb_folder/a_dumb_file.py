@@ -8,3 +8,7 @@ print('hello world')
 def some_function():
     pass
 
+<<<<<<< HEAD
+=======
+ # perform analysis
+>>>>>>> c031f690d2944789bb6112bfa7f3763c02000448
