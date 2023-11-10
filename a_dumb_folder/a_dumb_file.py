@@ -8,4 +8,3 @@ print('hello world')
 def some_function():
     pass
 
-# perform analysis
